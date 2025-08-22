@@ -33,7 +33,7 @@ It mimics the real-world calculator interface.
 
 📞 Contact
 📧 Email: ishratfatima436944@gmail.com
-💻 GitHub Profile:https://github.com/ishrat123ux
+💻 GitHub Profile:https://github.com/ishrat123-ux
 
 ⭐ If you like my projects, don't forget to star this repository! ⭐
 
