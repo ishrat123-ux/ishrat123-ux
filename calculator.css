@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f9f9f9; /* halka white background */
+}
+
+.outer {
+  background: #ffffff; /* calculator ka main background */
+  padding: 20px;
+  border-radius: 15px;
+  border: 2px solid #ccc;  /* calculator ko border */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1); /* halka shadow */
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.input {
+  width: 100%;
+  height: 60px;
+  background: #fdfdfd;
+  color: #000;
+  font-size: 24px;
+  text-align: right;
+  padding: 10px;
+  border: 2px solid #ccc; /* input ko border */
+  border-radius: 10px;
+}
+
+.keys {
+  display: grid;
+  grid-template-columns: repeat(4, 70px);
+  gap: 10px;
+}
+
+.keys div, .equal {
+  background: #ffffff; /* white keys */
+  color: #000;
+  border: 2px solid #ddd; /* border se keys alag lagengi */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  height: 70px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+/* --- HOVER EFFECT for all keys --- */
+.keys div:hover {
+  background: #4577ac; /* halka blue hover color */
+}
+
+/* C button red */
+.keys div:nth-child(16) {
+  background: #ff4d4d;
+  color: #fff;
+  border: 2px solid #cc0000;
+}
+
+.keys div:nth-child(16):hover {
+  background: #cc0000; /* dark red hover */
+}
+
+/* Equal button blue */
+.equal {
+  margin-top: 15px;
+  height: 70px;
+  font-size: 26px;
+  background: #4d79ff;
+  color: #fff;
+  border: 2px solid #335eea;
+  border-radius: 10px;
+  grid-column: span 4;
+  transition: background 0.3s ease;
+}
+
+.equal:hover {
+  background: #0c3ee3; /* dark blue hover */
+}
