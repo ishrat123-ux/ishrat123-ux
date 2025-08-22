@@ -20,6 +20,7 @@ A stylish and modern sign-up page designed using HTML and CSS.
 It includes a responsive layout and better UI.  
 📂 Technology Used: HTML, CSS  
 🔗 https://github.com/ishrat123-ux/ishrat123-ux/blob/main/sign_up.html
+
 🔗https://github.com/ishrat123-ux/ishrat123-ux/blob/main/sign_up.css
 
 3️⃣ Calculator Clone 
@@ -29,6 +30,7 @@ A fully functional calculator created using HTML and CSS at an advanced level.
 It mimics the real-world calculator interface.  
 📂 Technology Used: HTML, CSS  
 🔗 https://github.com/ishrat123-ux/ishrat123-ux/blob/main/calculator.html
+
 🔗https://github.com/ishrat123-ux/ishrat123-ux/blob/main/calculator.css
 
 🎯 Learning Goals
