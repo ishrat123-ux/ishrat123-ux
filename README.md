@@ -32,7 +32,7 @@ It mimics the real-world calculator interface.
 - Working on real-world project clones  
 
 📞 Contact
-📧 Email: your-email@example.com  
+📧 Email: ishratfatima436944@gmail.com
 💻 GitHub Profile:https://github.com/ishrat123ux
 
 ⭐ If you like my projects, don't forget to star this repository! ⭐
