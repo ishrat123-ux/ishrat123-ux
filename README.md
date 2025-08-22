@@ -6,6 +6,7 @@ Here, I've uploaded my practice projects and exercises using HTML and CSS.
 📌 Projects
 
 1️⃣ Registration Form 
+
 🔹 Description: 
 A simple registration form created using pure HTML.  
 Users can enter their details like name, email, and password.  
@@ -13,6 +14,7 @@ Users can enter their details like name, email, and password.
 🔗 
 
 2️⃣ Sign-Up Page 
+
 🔹 Description:
 A stylish and modern sign-up page designed using HTML and CSS.  
 It includes a responsive layout and better UI.  
@@ -20,6 +22,7 @@ It includes a responsive layout and better UI.
 🔗 
 
 3️⃣ Calculator Clone 
+
 🔹 Description:  
 A fully functional calculator created using HTML and CSS at an advanced level.  
 It mimics the real-world calculator interface.  
@@ -27,6 +30,7 @@ It mimics the real-world calculator interface.
 🔗 
 
 🎯 Learning Goals
+
 - Mastering HTML5 and CSS3 basics & advanced concepts  
 - Creating responsive websites
 - Hosting projects using GitHub Pages
